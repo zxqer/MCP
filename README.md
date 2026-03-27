@@ -2,7 +2,6 @@
 
 MCP 协议的完整 C++ 实现，包含 MCP 客户端、MCP 服务器和 RAG-MCP 智能工具检索模块。
 
-从 [agent-communication](../) 项目中独立提取的子项目。
 
 ## 项目结构
 
